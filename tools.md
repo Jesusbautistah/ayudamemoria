@@ -119,6 +119,8 @@
 + [overtone](http://overtone.github.io/)
 + [avout](http://avout.io/)
 + [core.logic](https://github.com/clojure/core.logic)
++ [sdl](http://libsdl.org/)
++ [opengl](https://www.khronos.org/opengl/)
 
 ### data formats
 + [edn](https://github.com/edn-format/edn)
