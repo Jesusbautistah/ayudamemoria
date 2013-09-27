@@ -38,7 +38,7 @@
 			+ [Ruby Cookbook](http://www.amazon.com/Cookbook-Cookbooks-OReilly-Lucas-Carlson/dp/0596523696)
 			+ [Beginning Ruby: From Novice to Professional](http://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634)
 			+ [Programming Ruby 1.9: The Pragmatic Programmers' Guide](http://www.amazon.com/Programming-Ruby-1-9-Pragmatic-Programmers/dp/1934356085)**
-			+ [why's_poignant_Guide_to_Ruby](http://en.wikipedia.org/wiki/Why%27s_(poignant)_Guide_to_Ruby)**
+			+ [why's_poignant_Guide_to_Ruby](http://en.wikipedia.org/wiki/Why%27s_\(poignant\)_Guide_to_Ruby)**
 
 		+ c, c++
 			+ [A Short Guide to Programming in C++](http://www.amazon.com/Introduction-Short-Guide-Programming/dp/B000V5KWXE)
