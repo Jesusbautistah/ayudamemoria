@@ -43,6 +43,7 @@
 + [xmonad](http://xmonad.org/)
 + [Afloat](http://infinite-labs.net/afloat/)
 + [Alfred](http://www.alfredapp.com/)
++ [Dash](http://kapeli.com/dash))
 
 ### project managers, mind mappers, source control 
 
