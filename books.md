@@ -182,8 +182,8 @@
 		+ [The Millennium Whole Earth Catalog](http://www.amazon.com/The-Millennium-Whole-Earth-Catalog/dp/0062510592)
 		+ [Food of the Gods: The Search for the Original Tree of Knowledge A Radical History of Plants, Drugs, and Human Evolution](http://www.amazon.com/gp/product/0553371304)**
 		+ [Flashbacks: A Personal and Cultural History of an Era](http://www.amazon.com/Flashbacks-Timothy-Leary/dp/0874778700/ref=tmm_pap_title_1?_encoding=UTF8&sr=1-1&qid=1379143184)
-		+ [Hubris: T+ [For Reasons of State](http://www.amazon.com/For-Reasons-State-Noam-Chomsky/dp/1565847946)he Inside Story of Spin, Scandal, and the Selling of the Iraq War](
-		http://www.amazon.com/Hubris-Inside-Story-Scandal-Selling/dp/030734682X)
+		+ [Hubris: The Inside Story of Spin, Scandal, and the Selling of the Iraq War](http://www.amazon.com/Hubris-Inside-Story-Scandal-Selling/dp/030734682X)
+		+ [For Reasons of State](http://www.amazon.com/For-Reasons-State-Noam-Chomsky/dp/1565847946)
 		+ [Fortunate Son: George W. Bush and the Making of an American President](http://www.amazon.com/Fortunate-Son-George-American-President/dp/1887128840)
 		+ [Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001](http://www.amazon.com/Ghost-Wars-Afghanistan-Invasion-September/dp/0143034669/ref=sr_1_1?s=books&ie=UTF8&qid=1379159181&sr=1-1&keywords=ghost+wars)
 		+ [Blowback: The Costs and Consequences of American Empire](http://www.amazon.com/Blowback-Chalmers-Johnson/dp/0751530808)
