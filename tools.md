@@ -145,3 +145,4 @@
 ### gaming 
 + [Steam](http://store.steampowered.com/)
 + [Nestopia](http://nestopia.sourceforge.net/)
++^[LinkVideoJuegosREtro] https://reinspirit.com/videojuegos-retro-creados-html5-js-css/#%F0%9F%91%BE_Q_bert
